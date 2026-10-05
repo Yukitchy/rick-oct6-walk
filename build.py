@@ -150,7 +150,7 @@ h1,h2,h3{{margin:0;font-weight:800;text-wrap:balance}}
 dl,dd,ol,ul{{margin:0;padding:0}} ol,ul{{list-style:none}}
 
 .nav{{position:sticky;top:0;z-index:10;background:rgba(244,241,234,.92);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}}
-.nav .wrap{{display:flex;gap:22px;height:48px;align-items:center;font-size:14px;font-weight:600}}
+.nav .wrap{{display:flex;gap:18px;height:48px;align-items:center;font-size:14px;font-weight:600;overflow-x:auto;scrollbar-width:none}} .nav .wrap::-webkit-scrollbar{{display:none}} .nav .wrap>*{{flex:none}} .nav .pdfbtn{{white-space:nowrap}}
 .nav a{{text-decoration:none;white-space:nowrap}} .nav a:hover{{text-decoration:underline;text-underline-offset:4px}}
 .nav .sp{{margin-left:auto}} .sheet{{display:none}}
 .pchoose{{position:fixed;inset:0;z-index:50;background:rgba(17,17,17,.55);display:flex;align-items:center;justify-content:center;padding:20px}} .pchoose[hidden]{{display:none}}
