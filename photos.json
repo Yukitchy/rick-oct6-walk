@@ -1,0 +1,31 @@
+{
+ "B": {
+  "card": {
+   "thumb": "img/hibiya.jpg",
+   "title": "Fountain in Hibiya Park in Tokyo, 2019 - 357.jpg",
+   "lic": "CC BY-SA 4.0"
+  },
+  "detail": [
+   {
+    "thumb": "img/hibiya.jpg",
+    "title": "Fountain in Hibiya Park in Tokyo, 2019 - 357.jpg",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "thumb": "img/saku.jpg",
+    "title": "Sakuradamon01s3200.jpg",
+    "lic": "CC BY 2.5"
+   }
+  ],
+  "food": []
+ },
+ "_hero": {
+  "card": {
+   "thumb": "img/saku.jpg",
+   "title": "Sakuradamon01s3200.jpg",
+   "lic": "CC BY 2.5"
+  },
+  "detail": [],
+  "food": []
+ }
+}

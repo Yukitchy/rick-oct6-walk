@@ -1,0 +1,153 @@
+{
+ "url": "https://yukitchy.github.io/rick-oct6-walk/",
+ "title": "Tokyo, Tuesday October 6: a morning walk to the Imperial Palace",
+ "kicker": "Tokyo · Tuesday, October 6",
+ "h1": "Tuesday morning",
+ "lead": "An easy walk from your hotel to the Imperial Palace before we meet at 9:00. Hibiya Park, then the old palace gate and the open plaza, and back the same way.",
+ "facts": [
+  [
+   "Start",
+   "7:15, at your hotel"
+  ],
+  [
+   "Walking",
+   "About 4.8 km, flat"
+  ],
+  [
+   "Meet Yuuki",
+   "9:00, hotel lobby"
+  ]
+ ],
+ "subject": "Oct 6",
+ "cta": "Email Yuuki",
+ "pick": "Walk as far as you like and turn back whenever you want.",
+ "hero_img": "img/saku.jpg",
+ "hero_alt": "Sakuradamon Gate of the Imperial Palace",
+ "hero_cap": "Sakuradamon Gate, one of the old palace gates.",
+ "t0": 7,
+ "span": 120,
+ "s": "1.9px",
+ "legend": [
+  [
+   "s",
+   "On your own"
+  ]
+ ],
+ "compare_h2": "The morning, minute by minute",
+ "ws_nav": "Good to know",
+ "ws_bar": "Walk",
+ "ws_more": "Before you go ↓",
+ "workshop": {
+  "h2": "Good to know before you go",
+  "lead": "The Outer Gardens of the palace are an open public area, so you can walk there at any hour. The East Gardens, where you pay a visit inside, open at 9:00, so we do not go in this morning.",
+  "facts": [
+   [
+    "Open?",
+    "The Outer Gardens and the plaza in front of Nijubashi are open to walk through. The East Gardens open at 9:00 (closed Mondays and Fridays), so they are not part of this walk."
+   ],
+   [
+    "Weather",
+    "Early October mornings in Tokyo are cool, about 18 to 20 degrees. A light jacket is enough."
+   ],
+   [
+    "Toilets",
+    "Hibiya Park has public toilets. Take a break there if you like."
+   ]
+  ],
+  "steps": [
+   [
+    "Walk at your own pace",
+    "Stop whenever you like and turn back. The walk is a suggestion."
+   ],
+   [
+    "Take your phone",
+    "Open the Google Maps link in the plan to see the route. It works on foot."
+   ],
+   [
+    "Back at the hotel",
+    "Plan to be back in the lobby by about 8:50, so you can sit for a few minutes before 9:00."
+   ]
+  ],
+  "note": "If you feel tired, it is perfectly fine to skip the walk and have a slow breakfast. We start at 9:00 either way.",
+  "photos": [
+   [
+    "img/hibiya.jpg",
+    "Hibiya Park fountain"
+   ],
+   [
+    "img/saku.jpg",
+    "Sakuradamon Gate"
+   ],
+   [
+    "img/niju.jpg",
+    "Nijubashi bridge, a bit further on"
+   ],
+   [
+    "img/saku.jpg",
+    "Sakuradamon Gate"
+   ]
+  ],
+  "link": [
+   "East Gardens hours (official)",
+   "https://www.kunaicho.go.jp/e-event/higashigyoen02.html"
+  ]
+ },
+ "meet_h2": "Meet Yuuki in the hotel lobby, 9:00",
+ "meet_text": "Yuuki meets you in the lobby of your hotel at 9:00.",
+ "meet_addr": "THE BLOSSOM HIBIYA, Shimbashi 1-1-13, Minato-ku, Tokyo",
+ "meet_place": "THE BLOSSOM HIBIYA Shimbashi 1-1-13 Minato-ku Tokyo",
+ "meet_hint": "If you are running late, message Yuuki on WhatsApp. No problem at all.",
+ "footer": "Questions on the day: message Yuuki on WhatsApp. Times are approximate.",
+ "credits_lead": "",
+ "print": {
+  "title": "Tokyo, Tuesday October 6",
+  "end": [
+   "9:00",
+   "Meet Yuuki in the lobby"
+  ],
+  "meet_h2": "Meet Yuuki: hotel lobby, 9:00",
+  "ws_h2": "Good to know",
+  "shops_h2": "Places on the way",
+  "directions": [
+   "The walk starts and ends at THE BLOSSOM HIBIYA.",
+   "Hibiya Park, then Sakuradamon Gate, and back the same way (about 4.8 km, leave 7:15).",
+   "Back in the lobby by about 8:50."
+  ],
+  "contact": [
+   [
+    "Guide",
+    "Yuuki, WhatsApp"
+   ]
+  ],
+  "workshop": [
+   "The Outer Gardens are open to walk through at any hour.",
+   "The East Gardens open at 9:00 (closed Mon and Fri), so they are not part of this walk."
+  ],
+  "shops": [
+   [
+    "Hibiya Park",
+    "Next to the hotel",
+    "Open all day"
+   ],
+   [
+    "Sakuradamon Gate",
+    "Outer Gardens",
+    "Open to walk by"
+   ]
+  ],
+  "photos": [
+   [
+    "img/hibiya.jpg",
+    "Hibiya Park"
+   ],
+   [
+    "img/saku.jpg",
+    "Sakuradamon Gate"
+   ]
+  ],
+  "ws_photo": [
+   "img/saku.jpg",
+   "Sakuradamon Gate"
+  ]
+ }
+}

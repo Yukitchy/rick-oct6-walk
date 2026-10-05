@@ -1,0 +1,91 @@
+[
+ {
+  "id": "B",
+  "name": "A morning walk: park and palace gate",
+  "tag": "Leave 7:15 · about 4.8 km · back about 8:45",
+  "why": "A slow morning. Hibiya Park, then Sakuradamon Gate and the open plaza of the Outer Gardens, and back the same way.",
+  "chips": [],
+  "bars": [
+   [
+    15,
+    30,
+    "Walk to Hibiya Park",
+    "s"
+   ],
+   [
+    30,
+    60,
+    "Hibiya Park",
+    "s"
+   ],
+   [
+    60,
+    75,
+    "Sakuradamon Gate",
+    "s"
+   ],
+   [
+    75,
+    105,
+    "Walk back to the hotel",
+    "s"
+   ]
+  ],
+  "steps": [
+   [
+    "7:15",
+    "Leave THE BLOSSOM HIBIYA",
+    "Walk to Hibiya Park, about 10 minutes."
+   ],
+   [
+    "7:30",
+    "Hibiya Park",
+    "The fountain, the pond and the old trees. Take your time."
+   ],
+   [
+    "8:00",
+    "Sakuradamon Gate",
+    "The samurai-era gate and the moat. From the plaza you can see the palace grounds across the lawn."
+   ],
+   [
+    "8:15",
+    "Walk back",
+    "The same way, through Hibiya Park. You are back at the hotel by about 8:45."
+   ]
+  ],
+  "stops": [
+   "The Blossom Hibiya Tokyo",
+   "Hibiya Park",
+   "Sakuradamon Gate",
+   "The Blossom Hibiya Tokyo"
+  ],
+  "moves": "All on foot and flat. About 4.8 km in total, about 60 minutes of walking plus stops.",
+  "good": "Time to sit and look, and still back with a margin before 9:00.",
+  "mind": "Nijubashi bridge is about 10 minutes further on from Sakuradamon. If you feel good, go on and take a taxi back.",
+  "links": [
+   [
+    "Google Maps: walking route",
+    "https://www.google.com/maps/dir/?api=1&origin=THE+BLOSSOM+HIBIYA&destination=THE+BLOSSOM+HIBIYA&travelmode=walking&waypoints=Hibiya+Park%7CSakuradamon+Gate"
+   ]
+  ],
+  "food": [],
+  "ll": [
+   [
+    35.66906,
+    139.75648
+   ],
+   [
+    35.674041,
+    139.7563205
+   ],
+   [
+    35.6773471,
+    139.7516942
+   ],
+   [
+    35.66906,
+    139.75648
+   ]
+  ]
+ }
+]
